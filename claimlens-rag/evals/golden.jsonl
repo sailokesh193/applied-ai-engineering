@@ -1,0 +1,8 @@
+{"question": "What procedure was billed on claim CLM-1001 and what was the CPT code?", "answerable": true, "expected_doc": "clm-1001-medical-record", "expected_terms": ["29881"]}
+{"question": "How long did the CLM-1001 member do physical therapy before surgery?", "answerable": true, "expected_doc": "clm-1001-medical-record", "expected_terms": ["6 weeks"]}
+{"question": "What does the MRI for CLM-1001 show about the medial meniscus?", "answerable": true, "expected_doc": "clm-1001-medical-record", "expected_terms": ["posterior horn"]}
+{"question": "What are the coverage criteria for arthroscopic partial meniscectomy?", "answerable": true, "expected_doc": "policy-knee-arthroscopy", "expected_terms": ["4 weeks"]}
+{"question": "Which outcome code should a reviewer use when records are missing?", "answerable": true, "expected_doc": "policy-knee-arthroscopy", "expected_terms": ["PEND"]}
+{"question": "Why was the lumbar MRI on claim CLM-1002 ordered?", "answerable": true, "expected_doc": "clm-1002-medical-record", "expected_terms": ["anxious"]}
+{"question": "What is the reimbursement rate for cardiac stents under the Medicare fee schedule?", "answerable": false}
+{"question": "Who won the football world cup in 2022?", "answerable": false}
